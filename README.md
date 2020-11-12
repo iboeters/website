@@ -1,5 +1,7 @@
-# Remind Learning
+# website
+A course from the University of Amsterdam in collaboration with Codam Coding College on making a website
 
+## Usage
 This website is made by iboeters, with the following pages:
 
 -index.html, containing a picture of the Remind trainers the mission of the company; <br/>
